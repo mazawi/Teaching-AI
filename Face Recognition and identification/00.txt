@@ -1,3 +1,0 @@
-pip install cmake
-pip install dlib==19.22
-pip install face_recognition

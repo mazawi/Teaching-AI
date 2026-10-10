@@ -1,0 +1,11 @@
+scenario,eng_size,cylinders
+Compact city car,1.2,4
+Small family car,1.6,4
+Mid-size family car,2.0,4
+Mid-size higher-cylinder,2.5,6
+SUV example,3.0,6
+Large-engine car,4.0,8
+Three-cylinder small car,1.0,3
+Six-cylinder family car,3.5,6
+Four-cylinder turbo-size example,2.3,4
+Upper range car,5.0,8

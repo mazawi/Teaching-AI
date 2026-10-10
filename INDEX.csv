@@ -1,0 +1,19 @@
+folder,title,category,rows
+01_Classification_Car_Type_Recommendation,Car-type recommendation,Classification,600
+02_Classification_Student_Pass_Prediction,Student pass prediction,Classification,750
+03_Classification_Email_Spam,Email spam classification,Classification,620
+04_Regression_GPA_Estimator,GPA estimator,Regression,680
+05_Regression_Salary_Estimator,Salary estimator,Regression,720
+06_Regression_Apartment_Rent,Apartment rent estimator,Regression,740
+07_Clustering_Customer_Segmentation,Customer segmentation with K-means,Clustering (K-means),630
+08_Clustering_Student_Study_Patterns,Student learning-pattern clustering,Clustering (K-means),570
+09_Clustering_Vehicle_Usage,Vehicle usage clustering,Clustering (K-means),540
+10_Anomaly_Suspicious_Transactions,Suspicious transaction alerts,Anomaly detection,850
+11_Anomaly_Machine_Sensor_Faults,Equipment sensor anomalies,Anomaly detection,830
+12_Anomaly_Unusual_Login_Activity,Unusual login activity,Anomaly detection,780
+13_Association_Supermarket_Baskets,Supermarket basket associations,Association rule mining,650
+14_Association_Course_Selection,Course-selection patterns,Association rule mining,660
+15_Association_Online_Store,Online-store accessory suggestions,Association rule mining,620
+16_Reinforcement_Grid_Robot,Robot navigation by Q-learning,Reinforcement learning (tabular Q-learning),80
+17_Reinforcement_Battery_Management,Battery charging and work decisions,Reinforcement learning (tabular Q-learning),12
+18_Reinforcement_Inventory_Control,Inventory ordering with Q-learning,Reinforcement learning (tabular Q-learning),132

@@ -1,0 +1,19 @@
+example,code_cells,metrics
+01_Classification_Car_Type_Recommendation,7,Accuracy=0.827; Precision (macro)=0.81; Recall (macro)=0.824
+02_Classification_Student_Pass_Prediction,7,Accuracy=0.835; Precision (macro)=0.811; Recall (macro)=0.741
+03_Classification_Email_Spam,7,Accuracy=0.916; Precision (spam)=0.886; Recall (spam)=0.946
+04_Regression_GPA_Estimator,7,MAE (GPA points)=0.175; RMSE (GPA points)=0.218; R²=0.881
+05_Regression_Salary_Estimator,7,MAE (OMR/month)=111.894; RMSE (OMR/month)=143.175; R²=0.918
+06_Regression_Apartment_Rent,7,MAE (OMR/month)=49.116; RMSE (OMR/month)=63.518; R²=0.915
+07_Clustering_Customer_Segmentation,6,Silhouette score=0.756; Adjusted Rand Index versus simulated groups=1
+08_Clustering_Student_Study_Patterns,6,Silhouette score=0.681; Adjusted Rand Index versus simulated groups=1
+09_Clustering_Vehicle_Usage,6,Silhouette score=0.543; Adjusted Rand Index versus simulated groups=0.953
+10_Anomaly_Suspicious_Transactions,7,Accuracy=0.996
+11_Anomaly_Machine_Sensor_Faults,7,Accuracy=0.992
+12_Anomaly_Unusual_Login_Activity,7,Accuracy=0.987
+13_Association_Supermarket_Baskets,6,
+14_Association_Course_Selection,6,
+15_Association_Online_Store,6,
+16_Reinforcement_Grid_Robot,7,Last 200 episodes success=1
+17_Reinforcement_Battery_Management,7,
+18_Reinforcement_Inventory_Control,7,

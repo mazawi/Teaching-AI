@@ -1,0 +1,11 @@
+scenario,eng_size,cylinders,estimated_co2
+Compact city car,1.2,4,174.4
+Small family car,1.6,4,186.0
+Mid-size family car,2.0,4,197.5
+Mid-size higher-cylinder,2.5,6,224.9
+SUV example,3.0,6,239.4
+Large-engine car,4.0,8,281.2
+Three-cylinder small car,1.0,3,162.2
+Six-cylinder family car,3.5,6,253.8
+Four-cylinder turbo-size example,2.3,4,206.2
+Upper range car,5.0,8,310.1
